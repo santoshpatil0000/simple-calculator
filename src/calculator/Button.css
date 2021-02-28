@@ -1,0 +1,16 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    outline: 1px solid #696261;
+    font-size: medium;
+    font-weight: lighter;
+    height: 4em;
+    background-color: #f5e1e1;
+    
+}
+
+.operator {
+    background-color: #f5860f;
+}
